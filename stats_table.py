@@ -13,7 +13,7 @@ def launches_table():
 
     # Export to CSV for Tableau
     df_table.to_csv("spacex_launches.csv", index=False)
-    print("\n✅ Exported to spacex_launches.csv! You can now open this in Tableau.")
+    print("\n Exported to spacex_launches.csv! You can now open this in Tableau.")
 
 if __name__ == "__main__":
     launches_table()
