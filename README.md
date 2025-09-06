@@ -47,10 +47,7 @@ Run the table stats script:
 ```bash
 python stats_table.py
 ```
-<img width="963" height="433" alt="image" src="https://github.com/user-attachments/assets/9d617479-bc4f-43b3-8bc1-9364f32dc07c" />
-
-Csv file:  
-<img width="995" height="806" alt="image" src="https://github.com/user-attachments/assets/787f4ea3-0476-48ef-9cd6-3d626b7ab98b" />
+<img width="623" height="742" alt="image" src="https://github.com/user-attachments/assets/284ba210-3b05-4267-851e-474b627fcfcc" />
 
 
 ## Testing
